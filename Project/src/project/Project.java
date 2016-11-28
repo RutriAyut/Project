@@ -12,6 +12,10 @@ package project;
 public class Project {
  /**hayyyyyyy*/
  //hai juga
+    
+    //apakabar?
+    
+    //baik kan ?
     /**
      * @param args the command line arguments
      */
